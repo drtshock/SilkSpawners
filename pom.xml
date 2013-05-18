@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.dustplanet</groupId>
-	<artifactId>SilkSpawners</artifactId>
+	<artifactId>LibiSpawners</artifactId>
 	<version>3.3-SNAPSHOT</version>
-	<name>SilkSpawners</name>
+	<name>LibiSpawners</name>
 	<url>http://dev.bukkit.org/server-mods/silkspawners/</url>
 	<description>Pickup, place and customize Monster Spawners</description>
 
@@ -17,7 +17,7 @@
 	<repositories>
 		<repository>
 			<id>libigot-repo</id>
-			<url>http://nexus.libigot.org/content/repositories/libigot/</url>
+			<url>http://repo.libigot.org</url>
 		</repository>
 		<repository>
 			<id>spout-repo</id>
