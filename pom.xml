@@ -103,7 +103,7 @@
 								</includes>
 							</artifactSet>
 							<!-- Set the final name -->
-							<finalName>SilkSpawners</finalName>
+							<finalName>LibiSpawners</finalName>
 							<relocations>
 								<relocation>
 									<pattern>org.mcstats</pattern>
