@@ -16,8 +16,8 @@
 	<!-- Repositories -->
 	<repositories>
 		<repository>
-			<id>bukkit-repo</id>
-			<url>http://repo.bukkit.org/content/repositories/snapshots</url>
+			<id>libigot-repo</id>
+			<url>http://nexus.libigot.org/content/repositories/libigot/</url>
 		</repository>
 		<repository>
 			<id>spout-repo</id>
@@ -36,16 +36,16 @@
 	<!-- Dependencies -->
 	<dependencies>
 		<dependency>
-			<groupId>org.bukkit</groupId>
-			<artifactId>bukkit</artifactId>
-			<version>1.5.2-R0.1-SNAPSHOT</version>
+			<groupId>org.libigot</groupId>
+			<artifactId>libkit</artifactId>
+			<version>1.5.2-R0.2-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.bukkit</groupId>
-			<artifactId>craftbukkit</artifactId>
-			<version>1.5.2-R0.1-SNAPSHOT</version>
+			<groupId>org.libigot</groupId>
+			<artifactId>libigot</artifactId>
+			<version>1.5.2-R0.2-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
